@@ -1,27 +1,14 @@
 {
-  "name": "es6-spread-operator-practice",
+  "name": "To-do-List-React",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "main": "src/index.js",
+  "main": "index.js",
+  "repository": "https://github.com/mylenaverspeelt/To-do-List-React.git",
+  "author": "Mylena <mylena49@hotmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
-    "react-scripts": "3.2.0"
+    "next": "^12.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
-  "devDependencies": {
-    "typescript": "3.3.3"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "scripts": {   "dev": "next dev",   "build": "next build",   "start": "next start",   "lint": "next lint" }
 }
