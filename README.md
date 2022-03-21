@@ -1,6 +1,6 @@
 # Lineup
 
-A simple to-do list made using React and 
+A simple to-do list made using React and NextJS
 
 ## Step 1 - Dependencies
 
