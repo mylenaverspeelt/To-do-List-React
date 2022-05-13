@@ -1,13 +1,18 @@
 # Lineup
 
-A simple to-do list made using React and NextJS
+A simple to-do list made using React and NextJS.
+
+
+<img src="./read-me-img"/>
+
 
 ## Step 1 - Dependencies
 
 You will need:
 
 * [Git](http://git-scm.com/downloads)
-* [node](https://nodejs.org/) 
+* [Node](https://nodejs.org/) 
+* [Yarn](https://yarnpkg.com/) 
 
 Please install them if you don't have them already.
 
@@ -16,7 +21,7 @@ Please install them if you don't have them already.
 From the command line, clone the repository:
 
 ```sh
-$ git clone https://github.com/mylenaverspeelt/keeper-app.git
+$ git clone https://github.com/mylenaverspeelt/lineup-app.git
 ```
 
 ## Step 3 - Run the app
@@ -24,8 +29,8 @@ $ git clone https://github.com/mylenaverspeelt/keeper-app.git
 Once the dependencies are installed, you can run the app:
 
 ```sh
-cd keeper-app
-npm start
+cd lineup-app
+yarn dev
 ```
 Your browser should open up the running app, or you can access: http://localhost:3000/
 

@@ -4,6 +4,7 @@ function App() {
   const [input, setInput] = useState("");
   const [lista, setLista] = useState([]);
 
+
   function inputUsuario(event) {
     setInput(event.target.value);
   }
@@ -14,6 +15,7 @@ function App() {
     });
     setInput("");
   }
+
   return (
     <div className="container">
       <div className="heading">
