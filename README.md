@@ -3,7 +3,7 @@
 A simple to-do list made using React and NextJS.
 
 
-<img src="/read-me-img"/>
+<img src="./read-me-img.png"/>
 
 
 ## Step 1 - Dependencies
