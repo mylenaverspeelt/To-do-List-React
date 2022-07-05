@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="container">
       <div className="heading">
-        <h1>Line-Up</h1>
+        <h1>To-do</h1>
       </div>
       <div className="form">
         <input onChange={inputUsuario} value={input} type="text" />
