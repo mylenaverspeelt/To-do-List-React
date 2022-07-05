@@ -1,4 +1,4 @@
-# Lineup
+# To-do App
 
 A simple to-do list made using React and NextJS.
 
